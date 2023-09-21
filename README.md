@@ -17,4 +17,4 @@ Bu kodun ana amacı, belirli bir hedefe (örn. "example.com") HTTP GET talepleri
 7- 'while True:' döngüsü ile, bu GET talebi hedefe sürekli olarak gönderilir. Bu, hedef sunucuyu yük altında tutmak ve onu meşgul etmek için bir yöntemdir.
 
 Bu kod, hedefe sürekli talepler göndererek onu meşgul eder.
-Bu, DOS saldırısı bir eyleme sebep olabilir ve kullanıcısını hukuki sorunlarla karşı karşıya bırakabilir. Bu tür kodları etik olmayan bir şekilde kullanmamanızı ve bunları sadece izinli ortamlarda, öğrenme amaçlı kullanmanızı öneririz.
+Bu, DOS saldırısı bir eyleme sebep olabilir ve kullanıcısını hukuki sorunlarla karşı karşıya bırakabilir. Bu tür kodları etik olmayan bir şekilde kullanmamanızı ve bunları sadece izinli ortamlarda, öğrenme amaçlı kullanmanızı öneririm.
